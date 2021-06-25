@@ -23,5 +23,12 @@ RaspberryPi_project_bbibbi
 ![슬라이드10](https://user-images.githubusercontent.com/83994416/123388646-fd55b380-d5d3-11eb-96e9-8b13b70133ac.PNG)
 ![슬라이드11](https://user-images.githubusercontent.com/83994416/123388670-03e42b00-d5d4-11eb-9ab5-a965eedc688f.PNG)
 ![슬라이드12](https://user-images.githubusercontent.com/83994416/123388676-05adee80-d5d4-11eb-84dd-c39ef0dbd0cd.PNG)
+
+
+https://user-images.githubusercontent.com/83994416/123391412-f8deca00-d5d6-11eb-9650-71baaa219f87.mp4
+
+
 ![슬라이드13](https://user-images.githubusercontent.com/83994416/123388679-06468500-d5d4-11eb-80af-5d1c0fbefdfa.PNG)
 ![슬라이드14](https://user-images.githubusercontent.com/83994416/123388683-06df1b80-d5d4-11eb-8ffa-e4a51a2dcdae.PNG)
+
+
